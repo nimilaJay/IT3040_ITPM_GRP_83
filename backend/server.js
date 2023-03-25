@@ -5,11 +5,13 @@ const connectDB = require("./config/db.js");
 const cors = require("cors");
 
 const employees = require("./routes/employees");
+const client_fee = require("./routes/client_fees");
 
 
 
 // Connecting Routes
 app.use(employees);
+app.use(client_fee);
 
 
 //import routes
