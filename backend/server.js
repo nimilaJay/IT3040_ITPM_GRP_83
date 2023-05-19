@@ -5,7 +5,11 @@ const connectDB = require("./config/db.js");
 const cors = require("cors");
 
 const employees = require("./routes/employees");
+
+const clients = require("./routes/clients");
+
 const client_fee = require("./routes/client_fees");
+
 
 
 
@@ -19,6 +23,7 @@ app.use(client_fee);
 
 //add routes here ..
 app.use(employees);
+app.use(clients);
 
 // Error Handler Middleware ..
 
