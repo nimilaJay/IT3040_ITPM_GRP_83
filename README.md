@@ -1,64 +1,60 @@
-The tourism industry is developing day by day and the aim of the tourism industry is to 
-improve the experience of tourists. Currently, it is not possible to manage resources 
-properly in the face of global crises. Because of that blocking of investment 
-opportunities, Cost rise, and Limited exposure to new experiences, have severely affected 
-the tourism industry.
-As a solution for this issue, the aim of our organization is to prepare decision–making 
-methods based on data and analysis, centralize them, and provide that information as 
-needed.For this purpose, the decisions coming from the domain experts are obtained through one 
-centralized system, the suggestions are reviewed and an approval process is created by 
-the organization. As an organization, we mainly focus on the below targets in SDG. 
-12.6 – Encourage companies to adopt sustainable practices and sustainability reporting.
-12.7 – Promote sustainable public procurement practices.
-12. A – Develop and implement tools to monitor sustainable tourism. 
+# Sustainable Tourism ERP Solution
 
-The Sustainable Tourism ERP Solution is a web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is specifically designed to address the challenges faced by the tourism industry and enhance the overall tourist experience through data-driven decision-making and sustainability practices.
+The Sustainable Tourism ERP Solution is a web application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to address the challenges faced by the tourism industry and enhance the overall tourist experience through data-driven decision-making and sustainability practices.
 
-Key Objectives
+## Key Objectives
 
 The primary objectives of our Sustainable Tourism ERP Solution are as follows:
 
-Improved Resource Management: By leveraging data and analysis, our solution aims to enable tourism businesses to manage their resources more effectively, leading to optimized operations and cost savings.
+- Improved Resource Management: By leveraging data and analysis, our solution aims to enable tourism businesses to manage their resources more effectively, leading to optimized operations and cost savings.
 
-Centralized Decision-Making: We provide a centralized system where decisions, suggestions, and insights from domain experts can be collected and reviewed. This streamlines the decision-making process and ensures consistent and informed choices.
+- Centralized Decision-Making: We provide a centralized system where decisions, suggestions, and insights from domain experts can be collected and reviewed. This streamlines the decision-making process and ensures consistent and informed choices.
 
-Sustainability Focus: Our organization is committed to promoting sustainable practices within the tourism industry. We align our solution with specific Sustainable Development Goals (SDGs) to encourage companies to adopt sustainable practices, promote sustainable procurement, and monitor sustainable tourism.
+- Sustainability Focus: Our organization is committed to promoting sustainable practices within the tourism industry. We align our solution with specific Sustainable Development Goals (SDGs) to encourage companies to adopt sustainable practices, promote sustainable procurement, and monitor sustainable tourism.
 
-Technology Stack
-The Sustainable Tourism ERP Solution is built using the MERN stack, which includes:
+## Key Features
 
-MongoDB: A NoSQL database for storing and managing data related to tourism operations, sustainability metrics, and decision-making insights.
+The Sustainable Tourism ERP Solution developed using the MERN stack offers the following key features:
 
-Express.js: A fast and flexible web application framework for building robust APIs to support data retrieval, processing, and communication with the frontend.
+1. Function 1: Data Management: This function focuses on the efficient management of data within the Sustainable Tourism ERP Solution. It includes features such as data storage, retrieval, organization, and data quality control. By effectively managing data, tourism businesses can make informed decisions and improve their overall operations.
 
-React.js: A JavaScript library for building dynamic and interactive user interfaces. The frontend of our application is developed using React.js, providing an intuitive and seamless user experience.
+2. Function 2: The employee allocation function helps tourism businesses optimize their workforce by assigning employees to specific tasks, projects, or departments based on their skills, availability, and workload. This function ensures that resources are allocated effectively, leading to improved productivity and operational efficiency.
 
-Node.js: A server-side JavaScript runtime environment that enables the execution of JavaScript code on the server. It powers the backend of our application, handling data processing and serving API requests.
+3. Function 3: The data visualization function enables the representation of data in visual formats such as charts, graphs, and maps. It helps users gain insights and understand complex information more easily. By visualizing data related to tourism operations, sustainability metrics, and decision-making insights, businesses can identify patterns, trends, and areas for improvement.
 
-Getting Started
+4. Function 4: The public data function involves accessing and integrating public data sources relevant to the tourism industry. It may include information about tourist destinations, attractions, environmental factors, and regulatory guidelines. By incorporating public data, the Sustainable Tourism ERP Solution can provide users with comprehensive and up-to-date information to support decision-making processes.
+
+
+## Technology Stack
+
+The Sustainable Tourism ERP Solution is built using the following technologies:
+
+- MongoDB: A NoSQL database for storing and managing data related to tourism operations, sustainability metrics, and decision-making insights.
+
+- Express.js: A fast and flexible web application framework for building robust APIs to support data retrieval, processing, and communication with the frontend.
+
+- React.js: A JavaScript library for building dynamic and interactive user interfaces. The frontend of our application is developed using React.js, providing an intuitive and seamless user experience.
+
+- Node.js: A server-side JavaScript runtime environment that enables the execution of JavaScript code on the server. It powers the backend of our application, handling data processing and serving API requests.
+
+## Getting Started
+
 To start using the Sustainable Tourism ERP Solution locally, follow these steps:
 
-Clone the repository to your local machine:
-
-shell
-Copy code
-git clone https://github.com/your-username/repository-name.git
-Install the necessary dependencies for both the backend and frontend:
-
-shell
-Copy code
-cd repository-name
-npm install
-cd client
-npm install
-Configure the application by modifying the necessary settings, such as database connections and API keys.
-
-Start the development server:
-
-shell
-Copy code
-npm run dev
-Access the application by visiting http://localhost:3000 in your web browser.
-
-Contribution and Support
+1. Clone the repository to your local machine:
+   ```shell
+   git clone https://github.com/nimilaJay/IT3040_ITPM_GRP_83
+   
+2. Install the necessary dependencies for both the backend and frontend:
+   ```shell
+   cd repository-name
+  
+3. Configure the application by modifying the necessary settings, such as database connections and API keys.
+  
+4. Start the development server:
+   ```shell
+   npm run dev
+   
+ ## Contribution and Support
+ 
 We welcome contributions from the community to enhance and improve the Sustainable Tourism ERP Solution. If you encounter any issues, have suggestions, or want to contribute, please open an issue or submit a pull request on our GitHub repository.
