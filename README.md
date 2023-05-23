@@ -53,7 +53,7 @@ To start using the Sustainable Tourism ERP Solution locally, follow these steps:
   
 4. Start the development server:
    ```shell
-   npm run dev
+   npm run server
    
  ## Contribution and Support
  
