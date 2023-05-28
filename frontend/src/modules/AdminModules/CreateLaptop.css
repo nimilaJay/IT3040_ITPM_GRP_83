@@ -1,0 +1,47 @@
+.need-validation {
+    position: relative;
+    top:10px;
+    bottom:10px;
+    background-color:#F6F5F5 ;
+    border: 2px solid #276678;
+    padding :30px;
+    border-radius:15px;
+    height: fit-content;
+}
+
+.form-group {
+    margin-bottom: "14px";
+}
+
+label{
+    margin-bottom: "5px";
+}
+
+h1{
+    position: relative;
+    top:10px;
+    color: #276678;
+}
+h5 {
+    color: #1687A7;
+}
+
+hr{
+    color: #1687A7;
+}
+
+button{
+    margin-top: "14px";
+    width: "100px";
+}
+
+.back{
+    position: relative;
+    top:20px;
+    width: auto;
+    height: 70px;
+    bottom: 20px;
+    font-size: 10px;
+    font-family:Arial;
+}
+/*aptop inven tory*/
