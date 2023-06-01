@@ -1,0 +1,429 @@
+.div11{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 50px;
+    top: 190px;
+  border-radius: 20px;
+    background: #d3e0ea;
+}
+.div22{
+    position: absolute;
+    width: 250px;
+    height: 60px;
+    left: 310px;
+    top: 190px;
+    border-radius: 20px;
+    background: #276678;
+}
+.txt11{
+
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.00022em;
+
+color: #1687A7;
+}
+.txt22{
+
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 19px;
+text-align: center;
+letter-spacing: -0.00022em;
+
+color: #FFFFFF;
+}
+.head1{
+    position: absolute;
+width: 623px;
+height: 80px;
+left: 50px;
+top: 50px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 58px;
+
+color: #1687A7;
+}
+.line1{
+    position: absolute;
+width: 1000.03px;
+height: 0px;
+left: 50px;
+top: 130px;
+
+border: 3px solid #D3E0EA;
+transform: rotate(0.21deg);
+}
+.div33{
+    position: absolute;
+width: 650px;
+height: 80px;
+left: 400px;
+top: 780px;
+
+background: #1687A7;
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 5px;
+}
+.div4{
+    position: absolute;
+width: 1000px;
+height: 300px;
+left: 50px;
+top: 375px;
+overflow-y: auto;
+
+background: #F6F5F5;
+backdrop-filter: blur(4px);
+}
+
+.txt-4{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+
+}
+
+.select-3{
+    position: absolute;
+width: 300px;
+height: 40px;
+left: 300px;
+top: 30px;
+
+background: #FFFFFF;
+border: 2px solid #C4C4C4;
+box-sizing: border-box;
+}
+
+.txt-5{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 90px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+}
+
+.txt-6{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 150px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+}
+
+.txt-7{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 260px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+}
+
+.txt-8{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 310px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+}
+
+.txt-9{
+    position: absolute;
+width: 261px;
+height: 45px;
+left: 50px;
+top: 360px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: -0.00022em;
+
+color: #000000;
+}
+
+.box-1{position: absolute;
+    width: 600px;
+    height: 40px;
+    left: 300px;
+    top: 90px;
+    
+    background: #D3E0EA;
+    border: 2px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.box-2{position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 300px;
+    top: 150px;
+    
+    background: #D3E0EA;
+    border: 2px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.box-3{position: absolute;
+    width: 300px;
+    height: 40px;
+    left: 300px;
+    top: 260px;
+    
+    background: #D3E0EA;
+    border: 2px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.box-4{position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 300px;
+    top: 310px;
+    
+    background: #D3E0EA;
+    border: 2px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.box-5{position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 300px;
+    top: 360px;
+    
+    background: #D3E0EA;
+    border: 2px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.txt33{
+    position: absolute;
+width: 94px;
+height: 29px;
+left: 15px;
+top: 28px;
+    font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -0.00022em;
+
+color: #C4C4C4;
+}
+.bbuselect1{
+    position: absolute;
+width: 140px;
+height: 50px;
+left: 190px;
+top: 16px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+.bbuselect2{
+    position: absolute;
+width: 272px;
+height: 50px;
+left: 350px;
+top: 16px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+.search{
+    position: absolute;
+width: 250px;
+height: 40px;
+left: 50px;
+top: 200px;
+background: #1687A7;
+border: 1px solid #F6F5F5;
+box-sizing: border-box;
+box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+}
+
+/*table1*/
+.table11{
+    position: absolute;
+width: 1000px;
+
+left: 50px;
+top: 940px;
+
+}
+.tbhead{
+    background: #276678;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.00022em;
+    color: #ffffff;
+    background: #276678;
+    
+}
+.tbfoot{
+    background: #276678;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.00022em;
+    color: #ffffff;
+    background: #276678;
+    
+}
+.tbfoot a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+.tbfoot:hover{
+    background: #47daba;
+}
+.tah1{
+position: absolute;
+width: 523px;
+height: 66px;
+left: 50px;
+top: 890px;
+
+
+color: #000000;
+}
+.buddmain{
+    width:100%;
+    height:750px;
+    white-space: nowrap;
+    position: relative;
+    overflow-y:scroll;
+}
+.tbody1{
+    text-align: center;
+}
+/*tabale 2*/
+.butable22{
+    position: absolute;
+width: 1000px;
+
+left: 50px;
+top: 50px;
+
+}
+.budthead2{
+    background: #276678;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.00022em;
+    color: #ffffff;
+    background: #276678;
+    
+}
+
+
+
+
+
+.btbody2{
+    text-align: center;
+}
+.btah1{
+    position: absolute;
+    width: 523px;
+    height: 66px;
+    left: 50px;
+    top: 320px;
+    
+    
+    color: #000000;
+    }
