@@ -1,0 +1,168 @@
+.div1331 {
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  left: 50px;
+  top: 190px;
+border-radius: 20px;
+  background: #d3e0ea;
+}
+.div2332 {
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  left: 310px;
+  top: 190px;
+  border-radius: 20px;
+  background: #276678;
+}
+.txt1x1 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: -0.00022em;
+  color: #1687a7;
+}
+.txt2x2 {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: center;
+  letter-spacing: -0.00022em;
+  color: #ffffff;
+}
+.head1l {
+  position: absolute;
+  width: 623px;
+  height: 80px;
+  left: 50px;
+  top: 50px;
+
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 58px;
+
+  color: #1687a7;
+}
+.line1l {
+  position: absolute;
+  width: 1000.03px;
+  height: 0px;
+  left: 50px;
+  top: 130px;
+
+  border: 3px solid #d3e0ea;
+  transform: rotate(0.21deg);
+}
+.div3112 {
+  position: absolute;
+  width: 360px;
+  height: 100px;
+  left: 630px;
+  top: 290px;
+  background: #1687a7;
+  backdrop-filter: blur(4px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 10px;
+}
+.txt354 {
+  position: absolute;
+  width: 74px;
+  height: 28px;
+  left: 30px;
+  top: 35px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: -0.00022em;
+
+  color: white;
+}
+.select121x {
+  position: absolute;
+  width: 202px;
+  height: 60px;
+  left: 140px;
+  top: 20px;
+
+  background: #ffffff;
+  border-radius: 10px;
+}
+.search121 {
+  position: absolute;
+  width: 110px;
+  height: 40px;
+  left: 495px;
+  top: 60px;
+}
+.table121 {
+  position: absolute;
+  width: 100%;
+
+  left: 9px;
+  top: 455px;
+}
+.thead121 {
+  background: #276678;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.00022em;
+  color: #ffffff;
+  background: #276678;
+}
+.tfoot121 {
+  background: #276678;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: -0.00022em;
+  color: #ffffff;
+  background: #276678;
+}
+.tfoot121 a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.tfoot121:hover {
+  background: #47daba;
+}
+.tah121 {
+  position: absolute;
+  width: 523px;
+  height: 66px;
+  left: 50px;
+  top: 405px;
+
+  color: #000000;
+}
+.main2 {
+  width: 1030px;
+  height: 810px;
+  white-space: nowrap;
+  position: relative;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+.tbody121 {
+  text-align: center;
+}
